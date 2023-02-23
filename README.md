@@ -155,5 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Samadou Ouro-agorouko <souroagorouko@gmail.com>
+Azeez Ridwan <azeezridwan57@gmail.com>
 ## License
 Public Domain. No copy write protection. 
